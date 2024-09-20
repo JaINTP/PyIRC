@@ -12,7 +12,7 @@ __author__ = 'Jai Brown aka JaINTP'
 __credits__ = ['Jai Brown', ]
 __version__ = '1.0.0'
 __maintainer__ = 'Jai Brown'
-__email__ = 'j.brown.dev@gmail.com'
+__email__ = 'jaintp.dev@gmail.com'
 
 
 class _ConsoleColourer(object):
